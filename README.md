@@ -1,1 +1,1 @@
-# Fundamental-of-Programming
+# Fundamentals-of-Programming
